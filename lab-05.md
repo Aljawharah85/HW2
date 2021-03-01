@@ -1,14 +1,11 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Name:Aljawharah sabr
 
-Team Members - Name and Student ID
+Student ID :2201001100
 
-1.  
-2.  
-3.  
-4.  
+1.G5
 
 ## Packages
 
@@ -39,6 +36,8 @@ dim(nobel)
 ```
 
     ## [1] 935  26
+
+935 observations 26 variables
 
 Each row represents information about a nobel prize winner.
 
